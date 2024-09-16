@@ -1,0 +1,15 @@
+cf优选反代IP，可以做配置中的节点ip和workers代码中的proxyip，当两者一致则cf的ip就固定在那个国家
+==========================
+CloudflareST.exe 
+-f ipv6.txt 知道测试ip文件
+-url https://cf.xiu2.xyz/url自定义测试地址
+具体可以看https://github.com/XIU2/CloudflareSpeedTest/issues/168
+
+匹配指定地区(colo 机场三字码)
+-cfcolo HKG,NRT,HND,ICN,SIN
+-tl 200 指定 [平均延迟上限] 条
+-tp 443 指定端口
+
+CloudflareST.exe -f ipv6.txt -tl 200 -cfcolo HKG,NRT,HND,ICN,SIN -url https://cf-speedtest.acfun.win/100mb.test -tp 2086
+CloudflareST.exe -f ipv6.txt -tl 200  -url https://cf-speedtest.acfun.win/100mb.test -tp 2086
+
