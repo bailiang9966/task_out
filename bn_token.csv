@@ -1,4 +1,4 @@
-token,start_date,price_round_uf,amount_round_uf,price_round_spot,amount_round_spot,vol_24h,qv_24h,change_percent_24h,cmc_rank,coin_name,market_cap,fully_market_cap,max_supply,total_supply,circulating_supply,locked_supply,released,released_all,avg_zf
+tokensss,start_date,price_round_uf,amount_round_uf,price_round_spot,amount_round_spot,vol_24h,qv_24h,change_percent_24h,cmc_rank,coin_name,market_cap,fully_market_cap,max_supply,total_supply,circulating_supply,locked_supply,released,released_all,avg_zf
 BTC,1569398400000,0.1,0.001,0.01,1e-05,199550.789,11815231056.58,-1.93,1,Bitcoin,1164566224187.5588,1237974454358.84,21000000.0,19754762.0,19754762.0,0.0,1.0,0.941,1.73
 ETH,1569398400000,0.01,0.001,0.01,0.0001,2651159.146,6173343430.27,-4.144,2,Ethereum,278730144116.9886,278730144116.99,120339716.02452113,120339716.02452113,120339716.02452113,0.0,1.0,1.0,2.03
 BCH,1569398400000,0.01,0.001,0.1,0.001,292029.329,92911162.67,-3.375,16,Bitcoin Cash,6243872526.629176,6635186606.25,21000000.0,19761512.5,19761512.5,0.0,1.0,0.941,2.47
